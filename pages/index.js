@@ -150,7 +150,7 @@ const checkNFTBalance = async () => {
   return (
   <div className="min-h-screen p-8" style={{ backgroundColor: '#e6f2ff' }}>
     <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-6">
-      <h1 className="text-3xl font-bold mb-6 text-center">NFT Bulk Transfer Tool</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">NFT BULK TRANSER by Scarab</h1>
       
       <div className="flex justify-between mb-6">
         {!account ? (
