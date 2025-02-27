@@ -1,6 +1,13 @@
 html,
 body {
   background-color: #e6f2ff; /* Zmieniono na jasnoniebieskie tło */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* aby zajmowało całą wysokość widoku */
+
+
   width: 100%;
   height: 100%;
   padding: 0;
