@@ -228,7 +228,7 @@ const checkNFTBalance = async () => {
                   <h2 className="text-xl font-bold">Available Balance: {balance} tokens</h2>
                   
                   <a
-                    href={`https://opensea.io/assets/polygon/${contractAddress}/${tokenId}`}
+                    href={`https://opensea.io/assets/matic/${contractAddress}/${tokenId}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
